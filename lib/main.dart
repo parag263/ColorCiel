@@ -63,7 +63,7 @@ class _MyAppState extends State<MyApp> {
           const SizedBox(
             height: 19,
           ),
-          Text(
+          SelectableText(
             selectedColor ?? "",
             style: const TextStyle(
               fontSize: 18,
