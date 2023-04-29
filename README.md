@@ -1,8 +1,8 @@
-#ColorCiel
+# ColorCiel
 
 ColorCiel is an Android application that helps people with color blindness and those who have difficulty recognizing colors. The app uses the camera on the phone to capture colors, and provides the user with the corresponding RGB value.
 
-##Installation
+## Installation
 To install ColorCiel, follow these steps:
 
 Download the APK file from the release section of the GitHub repository.
